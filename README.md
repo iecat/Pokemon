@@ -15,4 +15,6 @@ and being used to work with master as default branch in my day to day work, I wr
 3. Please not I had to install a minor version of Microsoft.AspNetCore.Mvc.Testing. The latest one require uphgrade to .net core on my PC - 
 4. I could have extracted the classes in PokemonJson in separate classes ( this is subjective and depends on dev prefference )
 5. I could have added some logging, due to the fact there is ILogger avaialable 
+6. I could have done intgration with Swagger
+7. etc.
 
